@@ -5,10 +5,10 @@ Introduction:
 HiLiTe is a test rig used to simulate the dinamic contact between a rubber and a track. It is possible to set different parameters and measure Friction Force, Normal Force and Coefficient of Friction.
 
 Main Goal:
-The main goal is to understand the dinamic behavior of the tire material subjected to different track frequencies.
+The main goal is to understand the dinamic behavior of the tire material subjected to different track frequencies (SURFACE files)
 
 Metodology:
-- The first step was to model the surfaces using a 3D software (eg.Solidworks);
+- The first step was to model the surfaces using a 3D software (Solidworks);
 - Then to use a 3D printer to print them;
 - Measure the Data in the HiLite using different condictions: track frequency (7), velocities (10), pressures(3), backward/forward* and dry/wet**
 - Treat, Analyse and visualize the data using Python.
