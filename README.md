@@ -1,4 +1,4 @@
-# High Speed Linear Test (HiLiTe) | Data Science Project | Python 
+# High Speed Linear Test (HiLiTe) | Data Science Project | Python | Mechanical Engineering
 Project developed at the Institut für Dynamik und Schwigungen of the Leibniz Universität, Hannover/Germany.
 
 Introduction:
